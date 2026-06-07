@@ -1,8 +1,3 @@
-'''
-Created on 2015/03/13
-
-@author: admin
-'''
 
 # NumPy; vektor islemleri, rastgele sayilar, norm ve ussel fonksiyonlar icin kullanilir.
 import numpy as np
