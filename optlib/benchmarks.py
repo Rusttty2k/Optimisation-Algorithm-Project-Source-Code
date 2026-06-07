@@ -1,8 +1,4 @@
-'''
-Created on 2015/02/23
 
-@author: Minoru Kanemasa
-'''
 
 # NumPy, matematiksel vektor islemleri icin kullanilir.
 import numpy as np
