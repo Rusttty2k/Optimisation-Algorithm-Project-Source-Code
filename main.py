@@ -1,8 +1,4 @@
-'''
-Created on 2013/06/19
 
-@author: admin
-'''
 
 # copy modulu, algoritma sablonunu her kosu icin temiz bir nesneye kopyalamak icin kullanilir.
 import copy
